@@ -1,5 +1,6 @@
 
 			var visited_matrix = [] 
+
 			for (let l = 0; l < adjmatrix.length; l ++)
 			{
 				visited_matrix.push(false);
@@ -72,7 +73,7 @@
 						{
 							bfs();
                             
-						},1000);
+						},1500);
 
 			
         		
