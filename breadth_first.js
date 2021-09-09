@@ -7,7 +7,8 @@
 			}
 			
 
-			function Queue() {
+			function Queue() 
+			{
    				this.elements = [];
 			}
 
