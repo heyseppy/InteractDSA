@@ -1,7 +1,11 @@
-![iDSA]("https://www.pngitem.com/pimgs/m/532-5322220_tree-new-child-node-tree-node-icon-png.png")
-[<img src="https://www.pngitem.com/pimgs/m/532-5322220_tree-new-child-node-tree-node-icon-png.png">](http://google.com.au/)
-## **iDSA (Interactive Data Structures & Algorithms) is an implementation of a node-network visualiser aimed to help visual learners understand their graphs and algorithms better.**
 
+## **iDSA (Interactive Data Structures & Algorithms) is an implementation of a node-network visualiser aimed to help visual learners understand their graphs and algorithms better.**
+<p align="center">
+    <a href="https://www.pngitem.com/pimgs/m/532-5322220_tree-new-child-node-tree-node-icon-png.png">
+        <img src="https://www.pngitem.com/pimgs/m/532-5322220_tree-new-child-node-tree-node-icon-png.png"
+             alt="Gitter">
+</p>
+  
 ## Motivation
 The motivation behind this was mainly for me to become familiar with the **3JS** environment, whilst allowing students studying DSA concepts to be able to view and interact with algorithms as they run through. As a computer science student myself, a visualizing program like this would have aided significantly in the learning process. 
 
