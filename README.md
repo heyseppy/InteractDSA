@@ -38,10 +38,10 @@ The current algorithms that have been implemented are the following:
 
 
 ## In Action:
-![2021-06-10 22-02-26.gif](https://github.com/heyseppy/InteractDSA/blob/main/2d.jpg "2d.jpg")
-![2021-06-10 22-02-26.gif](https://github.com/heyseppy/InteractDSA/blob/main/2021-06-10%2022-02-26.gif "2021-06-10 22-02-26.gif")
-
-
+<p align="center">
+ <img src="https://github.com/heyseppy/InteractDSA/blob/main/2d.jpg" alt="iDSA" width="10%"/>
+ <img src="https://github.com/heyseppy/InteractDSA/blob/main/2021-06-10%2022-02-26.gif" alt="iDSA" width="10%"/>
+</p>
 
 An example of an *Breadth First Search* being executed on a  12x12 custom adjacency matrix. 
 
