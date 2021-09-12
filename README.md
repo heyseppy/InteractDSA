@@ -16,7 +16,7 @@ The motivation behind this was mainly for me to become familiar with the **3JS**
 
 ## Running iDSA
 ```cd iDSA
-yarn serve"
+yarn serve
 ```      
 
 
@@ -32,11 +32,9 @@ To simply edit the adjacency matrix, enter your own custom matrix into the textf
 
 The current algorithms that have been implemented are the following:
 
-|                |ASCII                          
-|----------------|-------------------------------|-----------------------------|
-|Breadth First Search |`"Interactive BFS run throught"`|
-|Matrix Generator |`"Draws the graph and connecting edges"`            |
-|Dashes          |`"Connecting edges"`|
+[x] draw graph
+[ ] draw bfs
+[ ] draw dfs
 
 
 
