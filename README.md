@@ -15,12 +15,6 @@ yarn serve"
 ### Installation with CocoaPods
 CocoaPods is a dependency manager for Objective-C, which automates and simplifies the process of using 3rd-party libraries like NSGIF in your projects. See the "[Getting Started](http://guides.cocoapods.org/syntax/podfile.html)" guide for more information.
 
-
-## In Action:
-![2021-06-10 22-02-26.gif](https://github.com/heyseppy/InteractDSA/blob/main/2021-06-10%2022-02-26.gif "2021-06-10 22-02-26.gif")
-
-An example of an *Breadth First Search* being executed on a  12x12 custom adjacency matrix. 
-
 ## Running with own parameters
 
 To simply edit the adjacency matrix, enter your own custom matrix into the textfield at the top of the adjlist. Alternatively, when testing the program, set the field **adjmatrix** to the desired matrix.
@@ -39,8 +33,9 @@ The current algorithms that have been implemented are the following:
 
 
 ## In Action:
-![2021-06-10 22-02-26.gif](https://github.com/heyseppy/InteractDSA/blob/main/2021-06-10%2022-02-26.gif "2021-06-10 22-02-26.gif")
 ![2021-06-10 22-02-26.gif](https://github.com/heyseppy/InteractDSA/blob/main/2d.jpg "2d.jpg")
+![2021-06-10 22-02-26.gif](https://github.com/heyseppy/InteractDSA/blob/main/2021-06-10%2022-02-26.gif "2021-06-10 22-02-26.gif")
+
 
 
 An example of an *Breadth First Search* being executed on a  12x12 custom adjacency matrix. 
