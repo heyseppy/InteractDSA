@@ -44,7 +44,6 @@ The current algorithms that have been implemented are the following:
 </p>
 
 An example of an *Breadth First Search* being executed on a  12x12 custom adjacency matrix. 
-
 ## Running with own parameters
 To simply edit the adjacency matrix, enter your own custom matrix into the textfield at the top of the adjlist. Alternatively, when testing the program, set the field **adjmatrix** to the desired matrix.
 
