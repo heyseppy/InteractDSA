@@ -1,7 +1,7 @@
 # iDSA
 
 <p align="center">
- <img src="https://www.pngitem.com/pimgs/m/532-5322220_tree-new-child-node-tree-node-icon-png.png" alt="SDVersion"/>
+ <img src="https://www.pngitem.com/pimgs/m/532-5322220_tree-new-child-node-tree-node-icon-png.png" alt="SDVersion" width="100%"/>
 </p>
 
 ### iDSA (Interactive Data Structures & Algorithms) is an implementation of a node-network visualiser aimed to help visual learners understand their graphs and algorithms better.
