@@ -32,10 +32,9 @@ To simply edit the adjacency matrix, enter your own custom matrix into the textf
 
 The current algorithms that have been implemented are the following:
 
-[x] draw graph
-[ ] draw bfs
-[ ] draw dfs
-
+- [x] (visualise graph)
+- [ ] (draw bfs)
+- [ ] (draw dfs)
 
 
 ## In Action:
