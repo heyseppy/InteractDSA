@@ -1,5 +1,5 @@
 <div align="center">
-  iDSA
+  <b> iDSA </b>
 </div>
 
 <p align="center">
