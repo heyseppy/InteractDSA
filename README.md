@@ -11,7 +11,7 @@
 iDSA (Interactive Data Structures & Algorithms) is an implementation of a node-network visualiser aimed to help visual learners understand their graphs and algorithms better.
 
 ## Motivation
-The motivation behind this was mainly for me to become familiar with the **3JS** environment, whilst allowing students studying DSA concepts to be able to view and interact with algorithms as they run through. As a computer science student myself, a visualizing program like this would have aided significantly in the learning process. 
+The motivation behind this was mainly for me to become familiar with the **3JS, d3.js, and rough.js** environment, whilst allowing students studying DSA concepts to be able to view and interact with algorithms as they run through. As a computer science student myself, a visualizing program like this would have aided significantly in the learning process. 
 
 
 ## Running iDSA
